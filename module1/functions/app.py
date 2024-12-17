@@ -69,5 +69,3 @@ def banking():
             print(response[-1])
     if is_valid_acc == False:
         print("Invalid account number")
-
-banking()
