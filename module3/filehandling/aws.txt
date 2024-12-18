@@ -1,0 +1,9 @@
+modules:
+own code -> we split up the code into files and run all files at a time
+by means of importing the files into the single .py file
+
+
+packages:
+like modules but the code were written by third person and we download and install on our machine then we import and use..
+
+PIP -> by default it was installed while you install python -> python package manager
